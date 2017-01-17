@@ -1,2 +1,2 @@
 # tryOpenResty
-just try openresty!
+openResty是章亦春前辈主导开发的基于nginx的，可以使用Lua对服务器进行扩展的web server，使用openResty直接开发应用会有非常不错的性能，不过在开发富应用和微服务的过程中，单纯是openResty来写模块可能并不是最顺手的选择，但是，如果能够将模块路由，非法请求屏蔽等等基础的内容交给Lua和openResty去完成，那么对于微服务来说，是一举两得的选择。
